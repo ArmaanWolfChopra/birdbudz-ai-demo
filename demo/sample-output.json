@@ -1,0 +1,7 @@
+{
+  "image_id": "sample_bird_001.jpg",
+  "screening_result": "possible visible health concern",
+  "confidence": 0.72,
+  "recommended_action": "human review",
+  "note": "Educational demo output. Not a medical or veterinary diagnosis."
+}
